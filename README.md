@@ -101,7 +101,7 @@ CREATE TABLE transactions (
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/thisisAtharv/ExpenseTracker.git
+git clone https://github.com/kh-nabeel/ExpenseTracker.git
 cd ExpenseTracker
 ```
 ### 2. Configure MySQL
